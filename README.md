@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Emergency app](https://github.com/RoHiT-engi/EmergencyApp)
 
-- 🌱 I’m currently learning **MERN stack development**
+- 🌱 I’m currently learning **Java**
 
 - 🤝 I’m looking for help with **React,Node**
 
