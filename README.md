@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **React,Node**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Android,MERN stack**
 
 - 📫 How to reach me **nvichare9@gmail.com**
 
